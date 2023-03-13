@@ -6,3 +6,4 @@
    :caption: Содержание:
 
    lab1
+   lab2
